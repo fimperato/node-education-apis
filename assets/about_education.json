@@ -1,0 +1,24 @@
+{
+  "educations": [ 
+	
+    {
+      "field_1": "MS: Electrical Engineering (focus Computer Science) - University of Salerno",
+      "field_2": "Salerno, Italy",
+      "field_3": "2002 - 2006",
+      "href": "https://www.diin.unisa.it/"
+    },
+    {
+      "field_1": "BS: Electrical Engineering - University of Salerno",
+      "field_2": "Salerno, Italy",
+      "field_3": "1999-2002",
+      "href": "https://www.diin.unisa.it/"
+    },
+    {
+      "field_1": "Technical Institute for land surveyors",
+      "field_2": "Battipaglia, Italy",
+      "field_3": "1994 - 1999",
+      "href": "#"
+    }
+
+  ]
+}
